@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+     battery     0.9873    1.0000    0.9936       155
+       glass     0.9563    0.9871    0.9714       155
+       metal     0.9806    0.9806    0.9806       155
+     organic     1.0000    1.0000    1.0000       155
+       paper     1.0000    0.9806    0.9902       155
+     plastic     0.9801    0.9548    0.9673       155
+
+    accuracy                         0.9839       930
+   macro avg     0.9840    0.9839    0.9839       930
+weighted avg     0.9840    0.9839    0.9839       930
